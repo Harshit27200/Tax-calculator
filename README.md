@@ -11,5 +11,5 @@ git clone https://github.com/harshit27200/tax-calculator.git
 cd tax-calculator
 ## Tests Passing Screenshots
 
-![Tests Passing](ss1.png)
-![Tests Passing](ss2.png)
+![Tests Passing](main/ss1.png)
+![Tests Passing](main/ss2.png)
